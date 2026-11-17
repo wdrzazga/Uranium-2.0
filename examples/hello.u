@@ -1,0 +1,5 @@
+print "Hello World!" #comment
+x = 4 #variables
+y = (x + 1) * 2
+print "y is", y
+f = Function(File("path/file.u"))
